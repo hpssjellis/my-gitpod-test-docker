@@ -1,6 +1,10 @@
 image:
-   jenkins/jenkins
- 
+    node:alpine
+
+
+# these kind of work but don't save some usr folders
+#jenkins/jenkins
+#jenkins/jenkins:lst 
 
     
     
