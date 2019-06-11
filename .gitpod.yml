@@ -1,4 +1,5 @@
- image: fastcomm/android
+image:
+   jenkins/jenkins:lts
  
 
     
