@@ -1,5 +1,5 @@
 image:
-   jimlei/alpine-nodejs
+   jimlei:alpine-nodejs
 
 
 # these kind of work but don't save some usr folders
@@ -9,4 +9,7 @@ image:
     
     
     
+#Does not work
+ #  jimlei/alpine-nodejs
+ #   node/alpine  
     
