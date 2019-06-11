@@ -1,4 +1,6 @@
- image: circleci:android
+ image: fastcomm/android
+ 
+
     
     
     
