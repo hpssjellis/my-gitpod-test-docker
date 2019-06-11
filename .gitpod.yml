@@ -1,5 +1,5 @@
 image:
-   jimlei:alpine-nodejs
+    woahbase/alpine-ionic
 
 
 # these kind of work but don't save some usr folders
@@ -12,4 +12,5 @@ image:
 #Does not work
  #  jimlei/alpine-nodejs
  #   node/alpine  
+ #   jimlei:alpine-nodejs
     
