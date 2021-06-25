@@ -1,5 +1,8 @@
 image:
-  pioka/spresensesdk-builder:latest
+   edgeimpulse/sanity-check-arduino
+
+# that works
+#pioka/spresensesdk-builder:latest
 
 
 
