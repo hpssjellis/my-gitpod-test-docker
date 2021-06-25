@@ -1,5 +1,5 @@
 image:
-  pioka/spresense-builder:latest
+  pioka/spresensesdk-builder:latest
 
 
 #image:
