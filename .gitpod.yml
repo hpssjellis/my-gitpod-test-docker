@@ -1,5 +1,5 @@
 image:
-   spresense-build:latest
+   edgeimpulse/spresense-build:latest
 
 # that works
 #pioka/spresensesdk-builder:latest
