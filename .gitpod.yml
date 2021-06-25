@@ -1,12 +1,12 @@
 image:
-   edgeimpulse/sanity-check-arduino
+   spresense-build:latest
 
 # that works
 #pioka/spresensesdk-builder:latest
 
 
 
-#
+# this worksa
 #edgeimpulse/sanity-check-arduino
 
 
